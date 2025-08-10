@@ -19,7 +19,7 @@
 			  "id": "viz.markdown"
 			},
 			"rawConfiguration": {
-			  "text": "![logo](https://raw.githubusercontent.com/newrelic/newrelic-quickstarts/main/quickstarts/python/python/logo.svg)\n"
+			  "text": "![logo](https://raw.githubusercontent.com/newrelic/newrelic-quickstarts/main/quickstarts/python/python3/logo.svg)\n"
 			}
 		  },
 		  {
